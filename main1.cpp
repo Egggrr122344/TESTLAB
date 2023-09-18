@@ -1,7 +1,6 @@
 
 #include "function.h"
 #include "const.h"
-#include "include.h"
 int main () {
     char arr[SIZE];  // array of letters to output
     unsigned long  int num; // number
